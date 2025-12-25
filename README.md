@@ -1,5 +1,14 @@
 # saas-product-usage-retention-analysis
 SaaS analytics dashboard analyzing DAU, funnels, and cohort retention
+
+## Live Dashboard
+The interactive analytics dashboard can be accessed here:
+
+🔗 **Dashboard Link:** https://lookerstudio.google.com/s/jHF_hZ8crws
+
+> Note: The dashboard is built on synthetically generated data and is intended to demonstrate product analytics methodology and visualization design.
+
+
 # SaaS Product Usage & Retention Analysis
 
 ## Overview
